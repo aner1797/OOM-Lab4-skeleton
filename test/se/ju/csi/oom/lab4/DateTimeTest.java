@@ -18,7 +18,7 @@ public class DateTimeTest {
 		String stringDate = date.toString();
 		
 		
-		assertEquals(stringDate, "2018-05-14 15:25:40");
+		assertEquals(stringDate, "2018-05-14 15:25");
 
 	}
 
